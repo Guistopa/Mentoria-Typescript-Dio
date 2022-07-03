@@ -1,0 +1,1 @@
+console.log('Arquivo para testes. Função alterar e testar e debuggar os codigos.')
